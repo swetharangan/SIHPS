@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date: 23 - 09 - 2024
-## Register Number: 212221040027
-## Name: Beri Mothish Kumar
+## Register Number: 212223040221
+## Name: swetha.R
 ## Problem Title
 Development of e-Portal for facilitating Case Management Hearing of various types of cases
 ## Problem Description
